@@ -18,6 +18,10 @@ p{
 .half-width{
     width: 50%;
 }
+.middle-sec{
+    background-image: url(images/middle-bg.jpg);
+    background-repeat: no-repeat;
+}
 .top-left{
     padding-left: 50px;
     padding-top: 60px;
@@ -38,4 +42,19 @@ p{
     border-radius: 40px;
     color: white;
     font-weight: 500;
+}
+.align{
+    text-align: center;
+}
+.less-than-h1{
+    font-size: 35px;
+}
+.social{
+    margin: 0 10% 10% 10%;
+    box-shadow: 5px 5px 10px;
+    border-radius: 20   px;
+}
+.one-third-width{
+    width: 33.33%;
+    text-align: center;
 }
