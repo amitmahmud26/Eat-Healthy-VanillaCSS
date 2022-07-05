@@ -4,7 +4,8 @@ body{
     margin: 0;
 }
 section{
-    padding-bottom: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     padding-left: 50px;
     padding-right: 50px;
 }
@@ -37,11 +38,12 @@ p{
 }
 .link-button{
     text-decoration: none;
-    padding: 15px 30px;
+    padding: 30px 60px;
     background-image: linear-gradient(#13B5FC, #A5D4EE);
-    border-radius: 40px;
+    border-radius: 50px;
     color: white;
     font-weight: 500;
+    font-size: 24px;
 }
 .align{
     text-align: center;
@@ -50,11 +52,61 @@ p{
     font-size: 35px;
 }
 .social{
-    margin: 0 10% 10% 10%;
-    box-shadow: 5px 5px 10px;
-    border-radius: 20   px;
+    margin: 0 10% 120px 10%;
+    box-shadow: 2px 2px 30px rgba(128, 128, 128, 0.37);
+    border-radius: 20px;
+    height: 200px;
 }
 .one-third-width{
     width: 33.33%;
     text-align: center;
+}
+p{
+    font-size: 23px;
+}
+.middle-text{
+    padding-right: 180px;
+}
+.eat-fresh-heading{
+    text-align: center;
+    font-size: 35px;
+}
+.eat-fresh {
+    background-color: #0B0D17;
+    padding-top: 30px;
+    padding-bottom: 120px;
+}
+.eat-fresh-paragrah{
+    text-align: center;
+}
+.ash-color{
+    color: #4F4F51;
+}
+.recipe-img img{
+    width: 100%;
+    border-radius: 30px;
+}
+.recipe-img{
+    margin: 5%;
+    box-shadow: 1px 10px 10px 10px;
+    width: 40%;
+    border-radius: 30px;
+    box-shadow: 2px 2px 30px rgba(128, 128, 128, 0.37);
+}
+#a{
+    width: 40%;
+    margin-left: 7.5%;
+    margin-right: 2.5%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+#b{
+    width: 40%;
+    margin-right: 7.5%;
+    margin-left: 2.5%;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
